@@ -4,7 +4,7 @@
 ## Architectures
 
 1. **classification models** 
-
+- <kbd>2021 - 17 Aug</kbd> [Swin Transformer](Transformer/SwinTrans.md)
 - <kbd>2021 - 23 Jun</kbd> [EfficientNet v2](CNN/EfficientNetV2.md) <kbd>ICML 2021</kbd>
 - <kbd>2021 - 08 Jun</kbd> [ReXNet](CNN/ReXNet.md)
 - <kbd>2021 - 03 Jun</kbd> [ViT](CNN/ViT.md) <kbd> ICLR 2021</kbd>  

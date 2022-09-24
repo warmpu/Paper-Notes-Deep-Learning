@@ -9,7 +9,7 @@
    - <kbd>2022 - 21 Mar</kbd><kbd>CVPR</kbd> [ElasticFace](2.Face%20Recogntion/Lossfunctions/ElasticFace.md)
    
    - <kbd>2021 - 13 Nov</kbd><kbd>CVPR</kbd> [MagFace](2.Face%20Recogntion/Lossfunctions/MagFace.md)
-   
+   - <kbd>2019 - 01 May</kbd><kbd>CVPR</kbd> [AdaCos](2.Face%20Recogntion/Lossfunctions/Adacos.md)
    - <kbd>2019 - dd Jun</kbd><kbd>CVPR</kbd> [AdaptiveFace](2.Face%20Recogntion/Lossfunctions/AdaptiveFace.md)
    - <kbd>2019 - 09 Feb</kbd><kbd>CVPR</kbd> [ArcFace](2.Face%20Recogntion/Lossfunctions/ArcFace.md)
    - <kbd>2018 - 03 Apr</kbd><kbd>CVPR</kbd> [CosFace](2.Face%20Recogntion/Lossfunctions/CosFace.md)
