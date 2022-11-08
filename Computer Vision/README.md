@@ -6,7 +6,6 @@
    - <kbd>2022 - 05 Sep</kbd><kbd>----</kbd> [ScaleFace](2.Face%20Recogntion/Architectures/ScaleFace.md)
    - <kbd>2022 - 24 Aug</kbd><kbd>----</kbd> [SubFace](2.Face%20Recogntion/Lossfunctions/SubFace.md)
    - <kbd>2022 - 03 Apr</kbd><kbd>CVPR</kbd> [AdaFace](2.Face%20Recogntion/Lossfunctions/AdaFace.md)
-   - <kbd>2022 - 23 Mar</kbd><kbd>CVPR</kbd> [QMagFace](2.Face%20Recogntion/Lossfunctions/QMagFace.md)
    - <kbd>2022 - 21 Mar</kbd><kbd>CVPR</kbd> [ElasticFace](2.Face%20Recogntion/Lossfunctions/ElasticFace.md)
    - <kbd>2022 - 19 Jan</kbd><kbd>----</kbd> [KappaFace](2.Face%20Recogntion/Lossfunctions/KappaFace.md)
    
@@ -22,16 +21,15 @@
    - <kbd>2022 - 05 Apr</kbd><kbd>CVPR</kbd> [HeadSharingKD](2.Face%20Recogntion/Lossfunctions/HeadSharingKD.md)
    - <kbd>2021 - 22 Jun</kbd><kbd>CVPR</kbd> [ProbFace](2.Face%20Recogntion/others/ProbFace.md)
    - <kbd>2020 - 21 May</kbd><kbd>CVPR</kbd> [GroupFace](2.Face%20Recogntion/Architectures/Groupface.md)
-
-   - <kbd>2019 - 24 Nov</kbd><kbd>ICCVW</kbd> [VarGFaceNet](2.Face%20Recogntion/Architectures/VarGFaceNet.md) <kbd>lightweight</kbd>
-   - <kbd>2019 - 17 Apr</kbd><kbd>CVPR</kbd> [MobiFace](2.Face%20Recogntion/Architectures/Mobiface.md) <kbd>lightweight</kbd>
+   - <kbd>2019 - 24 Nov</kbd><kbd>ICCVW</kbd>[VarGFaceNet](2.Face%20Recogntion/Architectures/VarGFaceNet.md)
+   - <kbd>2019 - 07 Aug</kbd><kbd>ICCV</kbd> [PFE](2.Face%20Recogntion/others/PFE.md)
+   - <kbd>2019 - 17 Apr</kbd><kbd>CVPR</kbd> [MobiFace](2.Face%20Recogntion/Architectures/Mobiface.md)
 
 3. Sample strategies
 
 
 4. Others
-
-   - <kbd>2019 - 07 Aug</kbd><kbd>ICCV</kbd> [Probabilistic Face Embeddings](2.Face%20Recogntion/others/PFE.md)
+   - <kbd>2022 - 23 Mar</kbd><kbd>CVPR</kbd> [QMagFace](2.Face%20Recogntion/Lossfunctions/QMagFace.md)
    - <kbd>2018 - 26 Oct</kbd><kbd>MIPR</kbd> [Data-specific Adaptive Threshold for Face Recognition and Authentication](2.Face%20Recogntion/others/AdaptiveThreshold.md)
 
 ## Object ReID
